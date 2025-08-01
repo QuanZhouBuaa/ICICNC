@@ -11,7 +11,7 @@ html {
 /* 头部英雄区域样式 */
 .hero-section {
     padding: 100px 0;
-    background: linear-gradient(rgba(40, 50, 70, 0.7), rgba(40, 50, 70, 0.7)), url('https://images.unsplash.com/photo-1559213223-101a46b5a8e3?q=80&w=2070&auto=format&fit=crop'); /* 使用一个北京相关的背景图, 并加上深色遮罩 */
+    background: linear-gradient(rgba(40, 50, 70, 0.7), rgba(40, 50, 70, 0.7)), url('beijing-bg.jpg'); /* 使用一个北京相关的背景图, 并加上深色遮罩 */
     background-size: cover;
     background-position: center;
     color: white;
